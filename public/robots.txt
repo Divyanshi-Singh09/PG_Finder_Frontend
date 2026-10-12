@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Allow: /search
+Allow: /pg/
+Allow: /about
+Allow: /contact
+
+Disallow: /seeker/
+Disallow: /owner/
+Disallow: /admin/
+Disallow: /api/
+
+Sitemap: http://localhost:5000/sitemap.xml
